@@ -10,7 +10,7 @@
 * Skilled at learning new concepts quickly while working well under time line.
 * Able to follow directions quickly and corrrectly.
 * Familiar with Cat5, Cat5e, Cat6, Coax, Phone, Electrical.
-* Familiar with C++.
+* Familiar with C/C++, python, Java, JavaScript, SML, list goes on, plus more than happy to learn new languages.
 
 ### **OTHER SKILLS:**
 * Spanish (Read, Write, Speak)
